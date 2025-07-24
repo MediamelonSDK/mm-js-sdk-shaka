@@ -1,1 +1,1 @@
-# mm-js-sdk-shaka
+# MediaMelon Shaka Player QoE SDK Integration Guide
