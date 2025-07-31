@@ -1,8 +1,12 @@
 {
   "name": "mediamelon-js-shaka-sdk",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "MediaMelon JS Shaka Player QoE SDK",
   "main": "mmsmartstreaming_shakaplayer.min.js",
+  "files": [
+    "mmsmartstreaming_shakaplayer.min.js",
+    "README.md"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/MediamelonSDK/mm-js-sdk-shaka/issues"
   },
-  "homepage": "https://github.com/MediamelonSDK/mm-js-sdk-shaka#readme"
+  "homepage": "https://github.com/MediamelonSDK/mm-js-sdk-shaka#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.28.0",
+    "@babel/core": "^7.28.0",
+    "@babel/preset-env": "^7.28.0"
+  }
 }
