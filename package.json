@@ -1,6 +1,6 @@
 {
   "name": "mediamelon-js-shaka-sdk",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "MediaMelon JS Shaka Player QoE SDK",
   "main": "./index.js",
   "exports": {
